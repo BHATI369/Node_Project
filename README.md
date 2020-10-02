@@ -1,5 +1,7 @@
 # Node_Project
-Node Project User API Create,Read,Update and Delete and user login  
 
-# Des
-In this project user create,update,delete and read api on mongoDB, user can login and using jwt for it.
+Node Project Usercan API Create,Read,Update and Delete. 
+
+# Description
+
+In this project user can create,update,delete and read api from mongoDB, and can user login and Give jwt token.
